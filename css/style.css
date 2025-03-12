@@ -14,6 +14,9 @@
     --text-color:#000000;
     --main-color:#83b735;
 }
+section{
+    padding: 50px 10%;
+}
 header{
     position: fixed;
     width: 100%;
@@ -52,4 +55,12 @@ header{
     font-size: 2rem;
     cursor: pointer;
     display: none;
+}
+
+
+.home{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url();
+
 }
